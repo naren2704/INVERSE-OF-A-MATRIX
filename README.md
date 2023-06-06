@@ -22,13 +22,15 @@ end the program
 #Program to find the inverse of a matrix.
 #Developed by:narendran b
 #RegisterNumber:22009324
+``` 
 import numpy as np
 N=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 inverse=np.linalg.inv(N)
 print(inverse)
-Output:
+``` 
+# Output:
 ![image](https://github.com/naren2704/INVERSE-OF-A-MATRIX/assets/118706984/58237420-86b8-4d1b-b241-c9065f9180e4)
 
 
-Result:
+# Result:
 Thus the inverse of given matrix is successfully solved using python program
